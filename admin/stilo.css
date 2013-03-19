@@ -1,0 +1,80 @@
+
+label{
+  color: #fff;
+  font-size: 1.5em;
+ 
+  box-shadow: 1 2 10px #000;
+}
+footer{
+  background-color: #555;
+  color: #fff;
+  display:block;
+  margin-top: 10px;
+  text-align: center;
+  padding-top: 5px;
+  
+}
+body {
+  
+  font-family: "LaneNarrowRegular", Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  line-height: 20px;
+  color: #333333;
+  background-color: #fff;
+  
+}
+
+a {
+  color: #999;
+  text-decoration: none;
+
+}
+
+a:hover {
+  color: #333;
+ 
+}
+#barranav{
+  display: inline-block;
+  padding: 5px 5px;
+  background-color: #00a300;
+  width: 250px;
+}
+#barranav ul {
+  list-style-type: none;
+  
+  padding: 5px 5px;
+  width: 255px;
+}
+
+#barranav ul li{
+  border-right-style: none;
+  
+}
+#barranav ul li a{
+  list-style-type: none;
+  color: #fff;
+  display: block;
+  font-family: "arial";
+  padding: 10px 10px;
+  -ms-transition: all .5s ease;
+  -moz-transition: all .5s ease;
+  -webkit-transition: all .5s ease;
+  -webkit-transition: all .5s ease;
+}
+#barranav ul li a:hover{
+  background: #99b433;
+  -ms-transition: all .5s ease;
+  -moz-transition: all .5s ease;
+  -webkit-transition: all .5s ease;
+  -webkit-transition: all .5s ease;
+
+}
+#ultimos2{
+  
+  display: inline-block;
+  max-width: 730px;
+  vertical-align: top;
+  padding: 10px 10px;
+  width: 100%
+}
